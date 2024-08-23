@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1723825490366,
+  "timestamp": 1724431620251,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -70,7 +70,7 @@
     "/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/index.html": "d86bff9a65e55ddb2e35ffd8aaaf903f3fea00d3",
+    "/index.html": "938b6e06ff024fc08f9866073ff9585dafadb788",
     "/main-QGQGHRCF.js": "aebfc91684e83e6446633bde720fac9f9b8776b3",
     "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
     "/styles-PVGCQLFP.css": "3ea116a8e08eb900170f9f18b1779dd2dcc3ad81"
